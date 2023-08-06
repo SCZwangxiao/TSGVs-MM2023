@@ -1,7 +1,7 @@
 # Temporal Sentence in Streaming Videos
 ## Introduction
 
-Implementation of paper `Temporal Sentence Grounding in Streaming Videos` (Accepted by ACM Multimeida 2023).
+Implementation of paper `Temporal Sentence Grounding in Streaming Videos` (Accepted by ACM Multimedia 2023).
 
 ## Installation
 
