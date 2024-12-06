@@ -1,4 +1,4 @@
-<h1 align="center"> <a href=https://arxiv.org/abs/2312.00347>Temporal Sentence Grounding in Streaming Videos</a></h2>
+<h1 align="center"> <a href=https://arxiv.org/abs/2308.07102>Temporal Sentence Grounding in Streaming Videos</a></h2>
 
 ## Introduction
 
